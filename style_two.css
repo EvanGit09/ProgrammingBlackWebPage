@@ -1,0 +1,45 @@
+/*colours*
+Background: 0B0C10
+Secondary Background: 1F2833
+Gray
+C5C6C7
+Primary:
+66FCF1
+Secondary:
+45A29*/
+
+body {
+    font-family: 'Nunito Sans', sans-serif;
+}
+h1,h2,h4,h5 {
+    font-weight: 900px;
+    color: white;
+}
+.hero {
+    background-color:  #18222e;
+}
+.hero-post{
+    position: relative;
+
+}
+.hero-post-badges {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    
+}
+.hero-post-badges>a {
+    background-color: black;
+}
+.hero-post-content {
+    position: absolute;
+    bottom: 20px;
+
+}
+footer {
+    background-color:  #18222e ;
+}
+footer p {
+    color: white;
+}
+

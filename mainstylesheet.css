@@ -1,3 +1,16 @@
 body {
-    background-color: lightblue;
+    background-color:#18222e;
+}
+footer {
+    background-color:  #18222e ;
+}
+footer p {
+    color: white;
+}
+body {
+    font-family: 'Nunito Sans', sans-serif;
+}
+h1,h2,h4,h5 {
+    font-weight: 900px;
+    color: white;
 }
