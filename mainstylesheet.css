@@ -13,3 +13,10 @@ h1,h2,h4,h5 {
     font-weight: 900px;
     color: white;
 }
+.darkText {
+    color: #18222e;
+}
+.secondaryParagraph {
+    background-color: white;
+    margin-top: 40px;
+}
