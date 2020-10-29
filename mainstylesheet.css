@@ -19,4 +19,8 @@ h1,h2,h4,h5 {
 .secondaryParagraph {
     background-color: white;
     margin-top: 40px;
+    overflow: hidden;
+}
+.secondaryParagraph p {
+    margin: 100px;
 }
