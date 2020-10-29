@@ -21,7 +21,32 @@ h1,h2,h4,h5 {
     background-color: white;
     margin-top: 40px;
     overflow: hidden;
+    
 }
 .secondaryParagraph p {
     margin: 100px;
+}
+.secondaryParagraph h2 {
+    margin: 100px;
+}
+.card-list {
+    margin-top: 20px;
+}
+.carousel-item {
+    height: 600px;
+    overflow: hidden;
+}
+.center {
+    text-align: center;
+}
+.card {
+    overflow: hidden;
+    height: 600px;
+}
+.card-group {
+    overflow: hidden;
+    height: 600px;
+    width:1000px;
+    text-align: center;
+    margin: auto;
 }
