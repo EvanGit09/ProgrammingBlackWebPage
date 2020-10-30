@@ -1,15 +1,5 @@
-/*colours*
-Background: 0B0C10
-Secondary Background: 1F2833
-Gray
-C5C6C7
-Primary:
-66FCF1
-Secondary:
-45A29*/
-
-body {
-    font-family: 'Nunito Sans', sans-serif;
+.container {
+    font-family: 'Courier New', Courier, monospace;
 }
 h1,h2,h4,h5 {
     font-weight: 900px;
@@ -34,10 +24,10 @@ h1,h2,h4,h5 {
 .hero-post-content {
     position: absolute;
     bottom: 20px;
-
+        
 }
 footer {
-    background-color:  #18222e ;
+    background-color:  #18222e;
 }
 footer p {
     color: white;

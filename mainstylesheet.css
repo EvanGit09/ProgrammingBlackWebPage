@@ -1,7 +1,10 @@
+.container {
+    font-family: 'Courier New', Courier, monospace;
+}
 body {
     background-color:#18222e;
-    font-family: 'Nunito Sans', sans-serif;
-    font-weight: 900px;
+    font-family: 'Courier New', Courier, monospace;
+    
 }
 footer {
     background-color:  #18222e ;
