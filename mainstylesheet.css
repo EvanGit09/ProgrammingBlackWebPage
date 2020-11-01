@@ -54,6 +54,9 @@ h1,h2,h4,h5 {
     overflow: hidden;
     height: 600px;
 }
+.footerLine {
+    border: solid 0.5px white;
+}
 .card-group {
     overflow: hidden;
     height: 600px;
@@ -103,4 +106,7 @@ h1,h2,h4,h5 {
 
 .container2 {
     background-color: white;
+}
+.collapseContainer {
+    padding: 20px;
 }
