@@ -32,4 +32,9 @@ footer {
 footer p {
     color: white;
 }
+.sidetext {
+    padding-left: 1500px;
+    font-family: 'Courier New', Courier, monospace;
 
+    
+}
