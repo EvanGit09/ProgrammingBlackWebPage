@@ -42,6 +42,7 @@ h1,h2,h4,h5 {
 .carousel-item {
     height: 600px;
     overflow: hidden;
+    border-radius: 20px;
 }
 .carouselContainer {
     padding: 50px 150px 200px 150px;
@@ -60,7 +61,24 @@ h1,h2,h4,h5 {
     text-align: center;
     margin: auto;
 }
-
+.collapseCard {
+    overflow: scroll;
+    height: 200px;
+}
+.linkButton {
+    display: block;
+    background-color: #212529;
+    color: white;
+    border: solid 0.5px #18222e;
+    border-radius: 8px;
+    transition: background-color 1s, color 1s;
+    text-decoration: none;
+}
+.linkButton:hover {
+    background-color: white;
+    color: #18222e;
+    text-decoration: none;
+}
 .imgcolumn1 {
     float: left;
     width: 33.33%;
