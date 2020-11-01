@@ -60,6 +60,7 @@ h1,h2,h4,h5 {
     text-align: center;
     margin: auto;
 }
+
 .card-text {
     margin: 0;
 }
@@ -78,5 +79,14 @@ h1,h2,h4,h5 {
     background-color: white;
     color: #5EB1BF;
 }
-
+.footerLine {
+    border: solid 1px white;
+}
+.card-body {
+    height: 200px;
+    overflow: scroll;
+}
+.collapseContainer {
+    padding: 30px;
+}
 
