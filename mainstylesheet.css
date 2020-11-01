@@ -53,3 +53,29 @@ h1,h2,h4,h5 {
     text-align: center;
     margin: auto;
 }
+
+.imgcolumn1 {
+    float: left;
+    width: 33.33%;
+    padding: 10px;
+    height: 300px;
+    border-radius: 10px;
+    border-style: dashed;
+}
+
+.imgcolumn2 {
+    float: left;
+    width: 66.66%;
+    padding: 10px;
+    height: 300px;
+    border-radius: 20px;
+    border-style: solid;
+}
+
+.education-writing-section {
+    background-color: white;
+}
+
+.container2 {
+    background-color: white;
+}
