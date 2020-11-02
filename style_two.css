@@ -37,3 +37,13 @@ footer p {
     font-family: 'Courier New', Courier, monospace;
 
 }
+.headings1{
+    background-color: #18222e;
+    font-weight: 900px;
+    color: white;
+    border-radius: 20px;
+    padding: 5px;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 20px;
+}
