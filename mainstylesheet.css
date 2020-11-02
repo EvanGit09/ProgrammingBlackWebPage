@@ -124,3 +124,8 @@ h1,h2,h5 {
     text-align: center;
     margin: auto;
 }
+.sidetext {
+    padding-left: 1500px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
